@@ -10,4 +10,4 @@ Clean Code Practices, how to avoid is-else statements, good practises, refactor 
 
     https://medium.com/@roanmonteiro/clean-code-with-java-replace-the-logical-condition-using-enum-if-else-statements-898bd6a85327
     
-    https://blog.frankel.ch/even-more-readable-code-without-if-else/
+    https://blog.frankel.ch/even-more-readable-code-without-if-else/ <- kotlin 
